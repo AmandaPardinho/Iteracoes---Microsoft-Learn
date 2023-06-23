@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\bin\Debug\net6.0\IteracoesMicrosoft.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\bin\Debug\net6.0\IteracoesMicrosoft.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\bin\Debug\net6.0\IteracoesMicrosoft.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\bin\Debug\net6.0\IteracoesMicrosoft.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\bin\Debug\net6.0\IteracoesMicrosoft.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\refint\IteracoesMicrosoft.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\IteracoesMicrosoft.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Iteracoes---Microsoft-Learn\IteracoesMicrosoft\obj\Debug\net6.0\ref\IteracoesMicrosoft.dll
