@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteracoesMicrosoft", "IteracoesMicrosoft.csproj", "{D49DD220-A02F-470D-AF05-CDABB2740A6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFizzBuzz", "..\DesafioFizzBuzz\DesafioFizzBuzz.csproj", "{CAF9EADA-00A8-4689-8CF6-7ABC53329603}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D49DD220-A02F-470D-AF05-CDABB2740A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D49DD220-A02F-470D-AF05-CDABB2740A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D49DD220-A02F-470D-AF05-CDABB2740A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF9EADA-00A8-4689-8CF6-7ABC53329603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF9EADA-00A8-4689-8CF6-7ABC53329603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF9EADA-00A8-4689-8CF6-7ABC53329603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF9EADA-00A8-4689-8CF6-7ABC53329603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
